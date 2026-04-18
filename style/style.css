@@ -164,7 +164,7 @@ nav ul li a {
 .day-weather {
   font-size: 15px;
 }
-.weather-icon-forecast img {
+.weather-icon-forecast  {
   width: 30px;
 }
 .temp-weather {
@@ -194,7 +194,7 @@ nav ul li a {
     height: 350px;
     margin-top: 40px;
   }
-  .weather-icon-css img {
+  .weather-icon-css {
     width: 25rem;
   }
   .weather-description {
